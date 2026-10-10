@@ -4,7 +4,7 @@
 
 AFTERIMAGE turns any song into a living 3D sculpture and a world that grows from its mood. It runs entirely in your browser: no account, no backend, and your music never leaves your device.
 
-![Screenshot](assets/screenshot.png)
+<img width="1200" height="750" alt="screenshot" src="https://github.com/user-attachments/assets/c3cb8ea6-db41-43bd-8768-062d25dbfafc" />
 
 ## Features
 
